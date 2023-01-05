@@ -15,10 +15,6 @@
   right: 0; /* position the title at the right edge of the section */
 }
 
-.section:nth-of-type(1) p {
-  color: #ff0000; /* red color */
-}
-
 @media (min-width: 992px) {
   /* CSS rules for desktop view go here */
 
